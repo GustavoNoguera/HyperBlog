@@ -16,6 +16,20 @@ body
     margin: 0 auto;
 }
 
+#cabecera
+{
+    background: dodgerblue;
+    color: ghostwhite;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: 100;
+}
+
+#cabecera:hover {
+    background-color: gold;
+}
+
+
 #container h1
 {
     color: deeppink;
