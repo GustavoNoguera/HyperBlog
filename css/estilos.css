@@ -16,6 +16,10 @@ body
     margin: 0 auto;
 }
 
+p {
+    color: green;
+}
+
 #cabecera
 {
     background: dodgerblue;
